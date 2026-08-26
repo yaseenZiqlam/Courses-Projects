@@ -1,0 +1,18 @@
+# Build output
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.obj
+*.pdb
+*.ilk
+*.tlog
+*.lastbuildstate
+*.idb
+*.ipch
+
+# Visual Studio files
+.vs/
+*.vcxproj.user
+*.sdf
+*.opensdf
