@@ -1,0 +1,36 @@
+هدول الي راح تدرب عليهم خلال الفترة الجاي بشكل مكثف 
+
+Git 
+Docker
+Linux & CLI
+Python (production-grade, and functions “no basics anymore”)
+Testing (pytest)
+FastAPI
+CI/CD (GitHub Actions)
+AWS or Azure
+SQL and databases
+dbt
+Airflow and Dagster
+Spark
+Pandas / Polars
+Snowflake or BigQuery
+Neural networks
+Numpy
+PyTorch
+scikit-learn
+Transformers architecture
+Fine-tuning / LoRA
+Hugging Face
+Prompt engineering
+LangChain or LlamaIndex
+RAG
+Vector databases (Pinecone, Weaviate, pgvector)
+Embeddings & reranking
+Function calling / tool use
+MCP (Model Context Protocol)
+Agentic workflows (LangGraph)
+Structured outputs (Pydantic)
+MLflow or Weights & Biases
+Model deployment & serving
+Monitoring & drift detection
+Token & GPU cost optimization
